@@ -1,3 +1,4 @@
+#Nama : Azka Dafin Aldrik
 celsius = float(input("Masukkan suhu dalam derajat Celsius: "))
 
 fahrenheit = (celsius * 9/5) + 32
